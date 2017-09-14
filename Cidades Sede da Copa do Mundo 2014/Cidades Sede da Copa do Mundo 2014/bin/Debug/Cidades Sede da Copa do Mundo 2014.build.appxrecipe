@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CCE</Machine>
+    <WindowsUser>Hitallo</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>17050406-d200-43c1-8687-15dd2f9f3495</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\bin\Debug\Cidades Sede da Copa do Mundo 2014.exe">
+      <PackagePath>Cidades Sede da Copa do Mundo 2014.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\Belo Horizonte.png">
+      <PackagePath>Assets\Belo Horizonte.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\Brasilia.png">
+      <PackagePath>Assets\Brasilia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\Cuiaba.png">
+      <PackagePath>Assets\Cuiaba.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\Curitiba.png">
+      <PackagePath>Assets\Curitiba.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\Fortaleza.png">
+      <PackagePath>Assets\Fortaleza.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\Manaus.png">
+      <PackagePath>Assets\Manaus.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\Natal.png">
+      <PackagePath>Assets\Natal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\Porto Alegre.png">
+      <PackagePath>Assets\Porto Alegre.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\Recife.png">
+      <PackagePath>Assets\Recife.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\Rio de Janeiro.png">
+      <PackagePath>Assets\Rio de Janeiro.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\Salvador.png">
+      <PackagePath>Assets\Salvador.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\Sao Paulo.png">
+      <PackagePath>Assets\Sao Paulo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\bin\Debug\ItemsPage.xbf">
+      <PackagePath>ItemsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\bin\Debug\SplitPage.xbf">
+      <PackagePath>SplitPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hitallo\Documents\Visual Studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

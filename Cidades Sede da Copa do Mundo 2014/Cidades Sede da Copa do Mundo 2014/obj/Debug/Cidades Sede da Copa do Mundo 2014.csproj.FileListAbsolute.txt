@@ -1,0 +1,36 @@
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\bin\Debug\App.xbf
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\bin\Debug\ItemsPage.xbf
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\bin\Debug\SplitPage.xbf
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\bin\Debug\Cidades Sede da Copa do Mundo 2014.exe
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\bin\Debug\Cidades Sede da Copa do Mundo 2014.pdb
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\bin\Debug\resources.pri
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\bin\Debug\AppxManifest.xml
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\bin\Debug\Cidades Sede da Copa do Mundo 2014.build.appxrecipe
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\App.g.i.cs
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\App.g.cs
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\ItemsPage.g.i.cs
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\ItemsPage.g.cs
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\SplitPage.g.i.cs
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\SplitPage.g.cs
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\XamlTypeInfo.g.cs
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\App.xaml
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\SplitPage.xaml
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\App.xbf
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\SplitPage.xbf
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\XamlSaveStateFile.xml
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\ItemsPage.xaml
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\ItemsPage.xbf
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\Cidades Sede da Copa do Mundo 2014.exe
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\Cidades Sede da Copa do Mundo 2014.pdb
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\priconfig.xml
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\priconfig.xml.intermediate
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\layout.resfiles
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\layout.resfiles.intermediate
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\resources.resfiles
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\resources.resfiles.intermediate
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\pri.resfiles
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\pri.resfiles.intermediate
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\qualifiers.txt
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\qualifiers.txt.intermediate
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\hitallo\documents\visual studio 2013\Projects\Cidades Sede da Copa do Mundo 2014\Cidades Sede da Copa do Mundo 2014\obj\Debug\ProjectArchitectures.txt
